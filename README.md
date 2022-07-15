@@ -213,3 +213,7 @@ I am a programmer all of my life, since my 19, learning by myself primarily. Now
   <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mastercodingbear&layout=compact&theme=gotham&count_private=true">
   <img height="160px" src="https://github-readme-stats.vercel.app/api?username=mastercodingbear&show_icons=true&theme=gotham&count_private=true">
 </div>
+
+<br>
+
+Here is my [eMail](mailto:sky.dream.tarzan@gmail.com?Subject=Hello!) and [Skype](https://join.skype.com/invite/yCb1UAGp8KXq).
